@@ -3,5 +3,5 @@ This is a website for an online store, which sells products for at home aquarium
 ## Login
 You can log in with customised username and password.
 ## Usage
-After logging in you can explore the website. 
+After logging in you can explore the website. <br>
 There is a home page where you can see a summary of our website.
