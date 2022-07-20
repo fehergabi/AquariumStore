@@ -1,7 +1,9 @@
 ## Aquarium Store
-This is a website for an online store, which sells products for at home aquariums.
+Ez a weboldal egy online bolt, ahol mindenféle kellékeket meg lehet találni akváriumokhoz.
 ## Login
-You can log in with customised username and password.
+Bejelentkezni előre megadott felhasználónévvel és jelszóval lehet.
 ## Usage
-After logging in you can explore the website. <br>
-There is a home page where you can see a summary of our website.
+Bejelentkezés után megtekinthető az egész weboldal.<br>
+A kezdőlapon összesítő látható a weboldalról.<br>
+A "Rólunk" fülön egy bemutatkozás olvasható.<br>
+A "Termékek" oldalon megtalálható az összes forgalmazott árunk. A görgetővel lehet választani darabszámot, az oldal alján pedig a kosárba lehet helyezni a választottakat.
