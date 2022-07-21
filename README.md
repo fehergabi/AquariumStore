@@ -12,8 +12,8 @@ A "Kapcsolat" fülön láthatók a webshop adatai, amelyek használatával kapcs
 
 ## Problémák
 Egy pár problémával küzd még a program, amik javításra szorulnak.<br>
-Bejelentkezésnél először hibát dob és csak második próbálkozásra lesz sikeres a belépés.<br>
-A "Kosárba" gomb megnyomásakor a megjelenő oldal design-ja még nem egyezik az eredetivel.
+1. Bejelentkezésnél először hibát dob és csak második próbálkozásra lesz sikeres a belépés.<br>
+2. A "Kosárba" gomb megnyomásakor a megjelenő oldal design-ja még nem egyezik az eredetivel.
 
 ## Bejelentkezés
 Bejelentkezni előre megadott felhasználónévvel és jelszóval lehet.
@@ -24,8 +24,8 @@ Ezután megtekinthetjük a weboldal összes menüpontját.<br>
 Ha végeztünk a teendőinkkel, akkor a jobb felső sarokban a "Kijelentkezés" gombra kattintással jelentkezhetünk ki.
 
 ## Tervek
-Egy regisztrációs oldal létrehozása szükséges lehet.<br>
-Problémák kiküszöbölését tervezzük.
+-Egy regisztrációs oldal létrehozása szükséges lehet.<br>
+-A problémák kiküszöbölését tervezzük.
 
 ## Szerzők
 Csoportos projekt Fehér Gabriella és Fehér Antónia között.
