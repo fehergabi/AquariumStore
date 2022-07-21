@@ -7,12 +7,12 @@ Ez a weboldal egy online bolt, ahol minden akvárium felállításához illetve 
 Bejelentkezés után megtekinthető az egész weboldal.<br>
 A kezdőlapon összesítő látható a weboldalról.<br>
 A "Rólunk" fülön egy bemutatkozás olvasható.<br>
-A "Termékek" oldalon megtalálható az összes forgalmazott árunk. <br>
+A "Termékek" oldalon megtalálhatóak tesztadatok, amik forgalmazott árukat reprezentálják. <br>
 A "Kapcsolat" fülön láthatók a webshop adatai, amelyek használatával kapcsolatot lehet létesíteni az ügyfélszolgálattal.
 
 ## Problémák
 Egy pár problémával küzd még a program, amik javításra szorulnak.<br>
-Bejelentkezésnél először hibát dob és csak második próbálkozásra enged be.<br>
+Bejelentkezésnél először hibát dob és csak második próbálkozásra lesz sikeres a belépés.<br>
 A "Kosárba" gomb megnyomásakor a megjelenő oldal design-ja még nem egyezik az eredetivel.
 
 ## Bejelentkezés
