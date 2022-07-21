@@ -19,7 +19,9 @@ A "Kosárba" gomb megnyomásakor a megjelenő oldal design-ja még nem egyezik a
 Bejelentkezni előre megadott felhasználónévvel és jelszóval lehet.
 
 ## Használat
-
+Miután elindítjuk a programot megnyílik a bejelentkező felület. Itt az adataink megadása majd a "Bejelentkezés" gombra való kattintással léphetünk tovább.<br>
+Ezután megtekinthetjük a weboldal összes menüpontját.<br>
+Ha végeztünk a teendőinkkel, akkor a jobb felső sarokban a "Kijelentkezés" gombra kattintással jelentkezhetünk ki.
 
 ## Tervek
 Egy regisztrációs oldal létrehozása szükséges lehet.<br>
