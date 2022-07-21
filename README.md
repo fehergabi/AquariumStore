@@ -8,7 +8,8 @@ Bejelentkezés után megtekinthető az egész weboldal.<br>
 A kezdőlapon összesítő látható a weboldalról.<br>
 A "Rólunk" fülön egy bemutatkozás olvasható.<br>
 A "Termékek" oldalon megtalálhatóak tesztadatok, amik forgalmazott árukat reprezentálják. <br>
-A "Kapcsolat" fülön láthatók a webshop adatai, amelyek használatával kapcsolatot lehet létesíteni az ügyfélszolgálattal.
+A "Kapcsolat" fülön láthatók a webshop adatai, amelyek használatával kapcsolatot lehet létesíteni az ügyfélszolgálattal.<br>
+A design alapja egy ingyen css sablon és ezt alakítottuk az elképzeléseink szerint. Linkje: https://www.free-css.com/free-css-templates/page277/cla
 
 ## Problémák
 Egy pár problémával küzd még a program, amik javításra szorulnak:<br>
