@@ -22,7 +22,8 @@ Bejelentkezni előre megadott felhasználónévvel és jelszóval lehet.
 
 
 ## Tervek
-Egy regisztrációs oldal létrehozása szükséges lehet.
+Egy regisztrációs oldal létrehozása szükséges lehet.<br>
+Problémák kiküszöbölését tervezzük.
 
 ## Szerzők
 Csoportos projekt Fehér Gabriella és Fehér Antónia között.
