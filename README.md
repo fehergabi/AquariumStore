@@ -1,5 +1,6 @@
 ## Aquarium Store
-Csoportos projekt Fehér Gabriella és Fehér Antónia között. Kezdetleges projekt, egy egyetemi beadandó. <br>
+Egyetemi beadandóként indult projekt. <br>
+Idő hiányában megállt a fejlesztése, de tervben van a  folytatása.<br>
 Ez a weboldal egy online bolt, ahol mindenféle kellékeket és állatokat meg lehet találni akváriumokhoz.
 
 ## Leírás
@@ -12,8 +13,16 @@ A "Kapcsolat" fülön láthatók a webshop adatai, amelyek használatával kapcs
 ## Problémák
 Egy pár problémával küzd még a program, amik javításra szorulnak.<br>
 Bejelentkezésnél először hibát dob és csak második próbálkozásra enged be.<br>
-A "Kosárba" gomb megnyomásakor a megjelenő oldal design-ja még nem egyezik az eredetivel.<br>
-Egy regisztrációs oldal létrehozása is szükséges.
+A "Kosárba" gomb megnyomásakor a megjelenő oldal design-ja még nem egyezik az eredetivel.
 
 ## Bejelentkezés
 Bejelentkezni előre megadott felhasználónévvel és jelszóval lehet.
+
+## Használat
+
+
+## Tervek
+Egy regisztrációs oldal létrehozása szükséges lehet.
+
+## Szerzők
+Csoportos projekt Fehér Gabriella és Fehér Antónia között.
