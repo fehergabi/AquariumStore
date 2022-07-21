@@ -1,7 +1,7 @@
 ## Aquarium Store
 Egyetemi beadandóként indult projekt. <br>
 Idő hiányában megállt a fejlesztése, de tervben van a  folytatása.<br>
-Ez a weboldal egy online bolt, ahol mindenféle kellékeket és állatokat meg lehet találni akváriumokhoz.
+Ez a weboldal egy online bolt, ahol minden akvárium felállításához illetve fenntartásához szükséges kelléket és állatot meg lehet találni.
 
 ## Leírás
 Bejelentkezés után megtekinthető az egész weboldal.<br>
