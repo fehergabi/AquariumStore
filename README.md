@@ -11,7 +11,7 @@ A "Termékek" oldalon megtalálhatóak tesztadatok, amik forgalmazott árukat re
 A "Kapcsolat" fülön láthatók a webshop adatai, amelyek használatával kapcsolatot lehet létesíteni az ügyfélszolgálattal.
 
 ## Problémák
-Egy pár problémával küzd még a program, amik javításra szorulnak.<br>
+Egy pár problémával küzd még a program, amik javításra szorulnak:<br>
 1. Bejelentkezésnél először hibát dob és csak második próbálkozásra lesz sikeres a belépés.<br>
 2. A "Kosárba" gomb megnyomásakor a megjelenő oldal design-ja még nem egyezik az eredetivel.
 
@@ -19,9 +19,9 @@ Egy pár problémával küzd még a program, amik javításra szorulnak.<br>
 Bejelentkezni előre megadott felhasználónévvel és jelszóval lehet.
 
 ## Használat
-Miután elindítjuk a programot megnyílik a bejelentkező felület. Itt az adataink megadása majd a "Bejelentkezés" gombra való kattintással léphetünk tovább.<br>
-Ezután megtekinthetjük a weboldal összes menüpontját.<br>
-Ha végeztünk a teendőinkkel, akkor a jobb felső sarokban a "Kijelentkezés" gombra kattintással jelentkezhetünk ki.
+1. Miután elindítjuk a programot megnyílik a bejelentkező felület. Itt az adataink megadása majd a "Bejelentkezés" gombra való kattintással léphetünk tovább.<br>
+2. Ezután megtekinthetjük a weboldal összes menüpontját.<br>
+3. Ha végeztünk a teendőinkkel, akkor a jobb felső sarokban a "Kijelentkezés" gombra kattintással jelentkezhetünk ki.
 
 ## Tervek
 -Egy regisztrációs oldal létrehozása szükséges lehet.<br>
